@@ -8,7 +8,7 @@ from keras.applications import VGG16
 from keras.layers import Dense
 from keras.utils import to_categorical
 
-from ai_codelab.utils.plot_helpers import plot_mismatched_labels
+from ai_codelab.src.utils.plot_helpers import plot_mismatched_labels
 
 """
 Utilizing the VGG16 convolutional neural network architecture for image classification

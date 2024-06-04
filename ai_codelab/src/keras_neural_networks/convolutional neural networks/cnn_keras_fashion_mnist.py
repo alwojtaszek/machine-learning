@@ -5,7 +5,7 @@ import matplotlib.pyplot as plt
 from keras.src.utils import to_categorical
 from keras.callbacks import EarlyStopping
 
-from ai_codelab.utils.plot_helpers import plot_mismatched_labels
+from ai_codelab.src.utils.plot_helpers import plot_mismatched_labels
 
 """
 Fashion MNIST CNN Implementation
